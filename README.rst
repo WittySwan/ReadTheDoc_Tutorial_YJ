@@ -1,4 +1,4 @@
-Template for the Read the Docs tutorial
+Read the Docs文档创建教程
 =======================================
 
 This GitHub template includes fictional Python library
